@@ -9,7 +9,7 @@
     <a href="https://medium.com/@mahmutaltunkaya3r/sql-views-ve-materialized-views-farklar-ve-kullan%C4%B1m-senaryolar%C4%B1-e8fda4e69292" style="text-decoration:none; color:black;">Views vs Materialized Views</a>
    
 </p>
-<hr>
+<hr style="margin: 0;">
 <p style="margin-top: 0;">
 <a href="https://medium.com/@mahmutaltunkaya3r/interface-ve-abstract-class-farkl%C4%B1l%C4%B1klar-avantajlar-ve-dezavantajlar-99b740e0fc12" style="text-decoration:none; color:black;">Interface vs Abstract Class</a> |
 <a href="https://medium.com/@mahmutaltunkaya3r/javada-lambda-i%CC%87fadeleri-temel-bilgiler-ve-kullan%C4%B1m-%C3%B6rnekleri-6421b0e391b4" style="text-decoration:none; color:black;">Javada Lambda İfadeleri</a> |
