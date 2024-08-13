@@ -1,4 +1,4 @@
-# MyMediumWritings
+# My Medium Writings
 
 <p>
     <a href="https://medium.com/@mahmutaltunkaya3r/pgsql-kullan%C4%B1m%C4%B1-temel-komutlar-ve-%C3%B6rnekler-1-0c26923ef8fa" style="text-decoration:none; color:black;">Postgre SQL 1</a> |
