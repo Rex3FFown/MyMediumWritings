@@ -7,3 +7,4 @@
     <a href="https://medium.com/@mahmutaltunkaya3r/pgsql-kullan%C4%B1m%C4%B1-temel-komutlar-ve-%C3%B6rnekler-4-55d8e34b3e9a" style="text-decoration:none; color:black;">Postgre SQL 4</a> |
     <a href="https://medium.com/@mahmutaltunkaya3r/pgsql-kullan%C4%B1m%C4%B1-temel-komutlar-ve-%C3%B6rnekler-5-85549fe45ba0" style="text-decoration:none; color:black;">Postgre SQL 5</a>
 </p>
+<hr>
